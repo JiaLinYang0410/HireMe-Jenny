@@ -1,0 +1,25 @@
+body{
+    background: url("https://pbs.twimg.com/media/DefT-BoVMAAa--g.jpg");
+}
+img{
+    width:175px;
+    border:3px dashed black;
+}
+body{
+    font-family: 'Amatic SC', cursive;
+}
+h1:hover{
+    color:#b3d9ff;
+}
+h2:hover{
+    color:#7300e6;
+}
+h3:hover{
+    color:#ffccdd;
+}
+h4:hover{
+    color:#ff5c33;
+}
+a:hover{
+    color: #c299ff;
+}
